@@ -1,0 +1,53 @@
+:root {
+  --color-main: #000000;
+}
+.menu {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(6, 230, 6);
+  padding: 8px 24px;
+}
+
+.logo {
+  color: rgb(255, 255, 255);
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.nav-links {
+  list-style: none;
+  display: flex;
+  gap: 24px;
+}
+
+.nav-links a {
+  color: beige;
+  text-decoration: none;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  font-size: 22px;
+}
+
+.nav-links a:hover {
+  color: rgb(255, 72, 0);
+}
+
+.rodape {
+  background-color: gold;
+  color: var(--color-main);
+  padding: 23px;
+  margin: 36px;
+}
+
+.tituloRodape {
+  display: contents;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 24;
+}
+
+.rodapeLinks {
+  list-style: none;
+  color: var(--color-main);
+}
