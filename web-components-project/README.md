@@ -68,7 +68,7 @@ Este repositório reúne exercícios e projetos da disciplina **Sistemas Web e U
 Abra o \`index.html\` no navegador ou use a extensão **Live Server** do VS Code para hot-reload.
 
 ### Estrutura do projeto
-\\\
+\\
 web-systems-and-ux/
 ├── index.html
 ├── assets/
@@ -78,7 +78,8 @@ web-systems-and-ux/
 ├── .editorconfig
 ├── .gitignore
 └── README.md
-\\\
+\\
+
 ### Autor
 
 **Jorge Eduardo Salvador**
