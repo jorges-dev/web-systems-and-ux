@@ -21,26 +21,10 @@ This repository contains exercises and projects from the **Web Systems and UX** 
 
 ### How to Run
 
-\`\`\`bash
 git clone git@github.com:jorges-dev/web-systems-and-ux.git
 cd web-systems-and-ux
-\`\`\`
 
 Open \`index.html\` in your browser, or use the **Live Server** VS Code extension for hot-reload.
-
-### Project Structure
-
-\`\`\`
-web-systems-and-ux/
-├── index.html
-├── assets/
-│   ├── css/
-│   ├── js/
-│   └── img/
-├── .editorconfig
-├── .gitignore
-└── README.md
-\`\`\`
 
 ### Author
 
