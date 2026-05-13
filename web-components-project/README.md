@@ -1,17 +1,13 @@
-# Web Systems and UX
+# Project of the discipline of System Web and UX
 
-> Web development exercises and projects — Software Engineering coursework
-> Exercícios e projetos de desenvolvimento web — disciplina de Engenharia de Software
-
-[🇧🇷 Português](#-português) · [🇺🇸 English](#-english)
+> Web development and UX exercises and projects — Software Engineering coursework
+> Exercícios e projetos de desenvolvimento web e UX — disciplina de Engenharia de Software
 
 ---
 
-## 🇺🇸 English
-
 ### Overview
 
-This repository contains exercises and projects from the **Web Systems and UX** course at Católica SC (Software Engineering, evening program — Joinville, Brazil). Focus areas include semantic HTML, modern CSS, responsive design, and UX principles.
+This repository contains exercises and projects from the **Web Systems and UX** course at Católica SC (Software Engineering, evening program — Joinville, Brazil). Focus areas include semantic Java Script, HTML, modern CSS, responsive design, and UX principles.
 
 ### Tech Stack
 
@@ -26,6 +22,18 @@ This repository contains exercises and projects from the **Web Systems and UX** 
   cd web-systems-and-ux
 
 Open **index.html** in your browser, or use the **Live Server** VS Code extension for hot-reload.
+
+### Project Structure
+
+web-systems-and-ux/
+├── index.html
+├── assets/
+│ ├── css/
+│ ├── js/
+│ └── img/
+├── .editorconfig
+├── .gitignore
+└── README.md
 
 ### Author
 
@@ -53,7 +61,19 @@ Este repositório reúne exercícios e projetos da disciplina **Sistemas Web e U
   git clone git@github.com:jorges-dev/web-systems-and-ux.git
   cd web-systems-and-ux
 
-Abra o **index.html** no navegador ou use a extensão **Live Server** do VS Code para hot-reload.
+Abra o \`index.html\` no navegador ou use a extensão **Live Server** do VS Code para hot-reload.
+
+### Estrutura do projeto
+
+web-systems-and-ux/
+├── index.html
+├── assets/
+│ ├── css/
+│ ├── js/
+│ └── img/
+├── .editorconfig
+├── .gitignore
+└── README.md
 
 ### Autor
 
