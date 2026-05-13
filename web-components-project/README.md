@@ -15,6 +15,7 @@ This repository contains exercises and projects from the **Web Systems and UX** 
 - CSS3 (responsive design)
 - JavaScript (vanilla)
 
+<<<<<<< HEAD
 ### How to Run
 
 - bash
@@ -35,6 +36,8 @@ web-systems-and-ux/
 ├── .gitignore
 └── README.md
 
+=======
+>>>>>>> 1ff9d75ca68bff8f6246edf1a5f2dd45dedfa57b
 ### Author
 
 **Jorge Eduardo Salvador**
@@ -42,6 +45,7 @@ Software Engineering student · Católica SC
 [GitHub](https://github.com/jorges-dev)
 
 ---
+<<<<<<< HEAD
 
 ## 🇧🇷 Português
 
@@ -80,3 +84,5 @@ web-systems-and-ux/
 **Jorge Eduardo Salvador**
 Estudante de Engenharia de Software · Católica SC
 [GitHub](https://github.com/jorges-dev)
+=======
+>>>>>>> 1ff9d75ca68bff8f6246edf1a5f2dd45dedfa57b
